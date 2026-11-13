@@ -23,6 +23,18 @@ PARENT_DECK_ID = 1749202601
 PREFIX_DECK_ID = 1749202602
 SUFFIX_DECK_ID = 1749202603
 
+DECK_DESCRIPTION = """N2 affixes with senses, compounds, and N2-level example sentences.
+
+84 affixes (32 prefixes, 52 suffixes), 100 senses, 300 compounds, 168 sentences. One recognition card and two cloze cards per affix.
+
+License and attribution:
+- Deck data: CC BY-SA 4.0. You may redistribute and adapt the deck data under CC BY-SA 4.0 with attribution.
+- Scripts: MIT.
+- Tatoeba sentences: CC BY 2.0 FR, attributed by Japanese sentence ID on each card.
+- JMdict readings and glosses: CC BY-SA 4.0, EDRDG.
+- OpenJLPT level data: CC BY-SA 4.0.
+- Source, license, and notices: https://github.com/ClemPera/n2-affixes"""
+
 FIELDS = [
     "Affix",
     "RecognitionFront",
@@ -305,7 +317,7 @@ def build() -> None:
     parent = genanki.Deck(
         PARENT_DECK_ID,
         "Japanese::JLPT N2::Affixes",
-        description="N2 affixes with senses, compounds, and example sentences.",
+        description=DECK_DESCRIPTION,
     )
     prefix_deck = genanki.Deck(
         PREFIX_DECK_ID,

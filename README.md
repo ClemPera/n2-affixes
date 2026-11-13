@@ -138,6 +138,18 @@ With those files in place:
 
 The intermediate files `data/sentences_draft.csv` and `data/tatoeba_candidates.json` are kept locally during development but excluded from the public repository because they contain unattributed Tatoeba candidates. The final `data/sentences.csv` includes an ID for every Tatoeba sentence.
 
+## Publishing to AnkiWeb
+
+1. Import `N2_affixes.apkg` into the Anki desktop app.
+2. Sync the collection to AnkiWeb.
+3. On AnkiWeb, open the deck list and click **Share** next to `Japanese::JLPT N2::Affixes`.
+4. Use the description stored in the package. It is generated from `DECK_DESCRIPTION` in `scripts/build_deck.py` and includes the CC BY-SA 4.0 grant plus the Tatoeba, JMdict, and OpenJLPT attributions.
+5. Submit the shared deck. AnkiWeb may hold a newly shared or updated deck for a copyright check before it appears publicly.
+
+To update the shared deck later, share the same deck name and location again. Download counts and ratings are preserved, but existing users do not receive updates automatically. They need to download and re-import the deck.
+
+AnkiWeb's default Shared Deck License is personal use only. The deck description explicitly grants CC BY-SA 4.0 rights, which is necessary because the compound glosses come from JMdict under CC BY-SA 4.0. The scripts remain MIT.
+
 ## Sources and licenses
 
 - **Tatoeba**: 69 example sentences, used verbatim. License: CC BY 2.0 FR. Each card links to the Japanese sentence by its Tatoeba ID. Attribution: Tatoeba contributors, https://tatoeba.org. The corpus file used for selection is the Japanese-English export from manythings.org/anki, which is derived from Tatoeba.
