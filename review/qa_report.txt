@@ -1,0 +1,10 @@
+package: N2_affixes.apkg (504026 bytes)
+entries: collection.anki2, media
+model: N2 Affix (Recognition + Cloze) (7 fields, 3 templates)
+decks: ['Default', 'Japanese::JLPT N2::Affixes', 'Japanese::JLPT N2::Affixes::Prefixes', 'Japanese::JLPT N2::Affixes::Suffixes']
+notes: 84
+cards: 252 (ord 0=84, ord 1=84, ord 2=84)
+unique GUIDs: 84
+unique affixes: 84
+tagged notes: 84
+result: PASS

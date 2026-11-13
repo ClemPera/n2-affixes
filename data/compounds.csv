@@ -1,0 +1,301 @@
+affix_id,affix,sense,word,reading,gloss
+hi_non,非〜,1,非公式,ひこうしき,informal
+hi_non,非〜,1,非常識,ひじょうしき,lack of common sense
+hi_non,非〜,1,非公開,ひこうかい,private
+fu,不〜,1,不景気,ふけいき,economic slump; poor (business); gloomy
+fu,不〜,1,不完全,ふかんぜん,imperfect
+fu,不〜,1,不規則,ふきそく,irregular
+fu,不〜,2,不器用,ぶきよう,clumsy; incompetent
+fu,不〜,2,不気味,ぶきみ,weird
+fu,不〜,2,不作法,ぶさほう,ill-mannered
+mu,無〜,1,無意識,むいしき,unconsciousness; unconscious; the unconscious
+mu,無〜,1,無関係,むかんけい,unrelated
+mu,無〜,1,無計画,むけいかく,lacking a plan
+mu,無〜,2,無愛想,ぶあいそう,unsociable
+mu,無〜,2,無遠慮,ぶえんりょ,rude
+mu,無〜,2,無風流,ぶふうりゅう,unrefined
+mi,未〜,1,未解決,みかいけつ,unsolved
+mi,未〜,1,未経験,みけいけん,inexperienced
+mi,未〜,1,未完成,みかんせい,incomplete
+sou,総〜,1,総人口,そうじんこう,total population
+sou,総〜,1,総面積,そうめんせき,total area
+sou,総〜,1,総選挙,そうせんきょ,general election (of the lower house); fan popularity voting (esp. for idols)
+kaku,各〜,1,各学校,かくがっこう,each school
+kaku,各〜,1,各地域,かくちいき,each region
+kaku,各〜,1,各分野,かくぶんや,each field
+sho,諸〜,1,諸外国,しょがいこく,various foreign countries
+sho,諸〜,1,諸問題,しょもんだい,many problems
+sho,諸〜,1,諸費用,しょひよう,various expenses
+gen,現〜,1,現住所,げんじゅうしょ,(present) address
+gen,現〜,1,現市長,げんしちょう,current mayor
+gen,現〜,1,現時点,げんじてん,present point (i.e. in history)
+kyuu,旧〜,1,旧体制,きゅうたいせい,old regime
+kyuu,旧〜,1,旧市街,きゅうしがい,old town
+kyuu,旧〜,1,旧姓,きゅうせい,one's original family name
+moto,元〜,1,元大統領,もとだいとうりょう,former president
+moto,元〜,1,元首相,もとしゅしょう,former prime minister
+moto,元〜,1,元歌手,もとかしゅ,former singer
+zen,前〜,1,前社長,ぜんしゃちょう,former president
+zen,前〜,1,前年度,ぜんねんど,preceding fiscal year
+zen,前〜,1,前大統領,ぜんだいとうりょう,previous president (immediately preceding the incumbent)
+zen,前〜,2,前払い,まえばらい,payment in advance
+zen,前〜,2,前売り,まえうり,advance sale
+zen,前〜,2,前夜,ぜんや,"last night; night before (Christmas, etc.)"
+shin,真〜,1,真夜中,まよなか,dead of night
+shin,真〜,1,真正面,ましょうめん,directly opposite
+shin,真〜,1,真後ろ,まうしろ,right behind
+shin,真〜,2,真心,まごころ,sincerity
+shin,真〜,2,真面目,しんめんもく,one's true character; serious
+shin,真〜,2,真剣,しんけん,serious; real sword (as opposed to a wooden practice weapon)
+gyaku,逆〜,1,逆方向,ぎゃくほうこう,the opposite direction
+gyaku,逆〜,1,逆輸入,ぎゃくゆにゅう,"reimportation; (cultural, etc.) reverse import (e.g. California rolls being introduced in Japan)"
+gyaku,逆〜,1,逆効果,ぎゃくこうか,opposite effect
+han,反〜,1,反社会的,はんしゃかいてき,antisocial
+han,反〜,1,反政府,はんせいふ,anti-government
+han,反〜,1,反戦,はんせん,anti-war
+han,反〜,2,反時計回り,はんとけいまわり,counterclockwise
+han,反〜,2,反比例,はんぴれい,inverse proportion
+han,反〜,2,反作用,はんさよう,reaction
+betsu,別〜,1,別問題,べつもんだい,different thing
+betsu,別〜,1,別方向,べつほうこう,different direction
+betsu,別〜,1,別世界,べっせかい,another world
+i,異〜,1,異分野,いぶんや,different field
+i,異〜,1,異文化,いぶんか,different culture
+i,異〜,1,異民族,いみんぞく,different race
+kou,高〜,1,高収入,こうしゅうにゅう,high income
+kou,高〜,1,高学歴,こうがくれき,high academic achievement
+kou,高〜,1,高血圧,こうけつあつ,high blood pressure
+tei,低〜,1,低価格,ていかかく,low price
+tei,低〜,1,低血圧,ていけつあつ,low blood pressure
+tei,低〜,1,低カロリー,ていカロリー,low-calorie
+chou,長〜,1,長距離,ちょうきょり,long distance; long-distance race
+chou,長〜,1,長期間,ちょうきかん,long period (of time)
+chou,長〜,1,長時間,ちょうじかん,long time
+tan,短〜,1,短距離,たんきょり,short distance
+tan,短〜,1,短時間,たんじかん,short time
+tan,短〜,1,短期間,たんきかん,short term
+ta,多〜,1,多目的,たもくてき,multipurpose
+ta,多〜,1,多人数,たにんずう,large number of people
+ta,多〜,1,多方面,たほうめん,many-sided
+juu,重〜,1,重労働,じゅうろうどう,heavy labor; hard labor (in prison)
+juu,重〜,1,重工業,じゅうこうぎょう,heavy industry
+juu,重〜,1,重金属,じゅうきんぞく,heavy metals
+aku,悪〜,1,悪影響,あくえいきょう,bad influence
+aku,悪〜,1,悪条件,あくじょうけん,unfavorable conditions
+aku,悪〜,1,悪天候,あくてんこう,bad weather
+kou_good,好〜,1,好成績,こうせいせき,good results
+kou_good,好〜,1,好条件,こうじょうけん,favourable terms
+kou_good,好〜,1,好印象,こういんしょう,good impression
+kyuu_fast,急〜,1,急成長,きゅうせいちょう,rapid growth
+kyuu_fast,急〜,1,急展開,きゅうてんかい,rapid development
+kyuu_fast,急〜,1,急上昇,きゅうじょうしょう,sudden rise; trending
+kyuu_fast,急〜,2,急カーブ,きゅうカーブ,sharp curve
+kyuu_fast,急〜,2,急坂,きゅうはん,steep slope
+kyuu_fast,急〜,2,急勾配,きゅうこうばい,steep slope
+sai,再〜,1,再開発,さいかいはつ,redevelopment
+sai,再〜,1,再利用,さいりよう,reuse
+sai,再〜,1,再確認,さいかくにん,reaffirmation
+shu,主〜,1,主原料,しゅげんりょう,principal raw material
+shu,主〜,1,主成分,しゅせいぶん,main ingredient
+shu,主〜,1,主産地,しゅさんち,chief producing center
+fuku,副〜,1,副社長,ふくしゃちょう,executive vice-president
+fuku,副〜,1,副会長,ふくかいちょう,"vice president (of a club, organization, etc.)"
+fuku,副〜,1,副都心,ふくとしん,subcenter (of a large city)
+fuku,副〜,2,副収入,ふくしゅうにゅう,additional income
+fuku,副〜,2,副作用,ふくさよう,side effect
+fuku,副〜,2,副産物,ふくさんぶつ,by-product; spin-off
+chou_over,超〜,1,超高級,ちょうこうきゅう,ultra-luxury
+chou_over,超〜,1,超満員,ちょうまんいん,overcrowded
+chou_over,超〜,1,超一流,ちょういちりゅう,absolute best
+bou,防〜,1,防災,ぼうさい,disaster preparedness
+bou,防〜,1,防止,ぼうし,prevention
+bou,防〜,1,防水,ぼうすい,waterproofing
+hon,本〜,1,本社,ほんしゃ,head office; main shrine; this company
+hon,本〜,1,本場,ほんば,home (of something); place of origin; morning session
+hon,本〜,1,本格的,ほんかくてき,genuine; full-scale
+yoku,翌〜,1,翌日,よくじつ,next day
+yoku,翌〜,1,翌年,よくねん,following year
+yoku,翌〜,1,翌月,よくげつ,following month
+sha,〜者,1,研究者,けんきゅうしゃ,researcher
+sha,〜者,1,技術者,ぎじゅつしゃ,engineer
+sha,〜者,1,労働者,ろうどうしゃ,worker; (manual) laborer
+ka,〜家,1,政治家,せいじか,politician
+ka,〜家,1,小説家,しょうせつか,novelist
+ka,〜家,1,専門家,せんもんか,specialist
+shi,〜士,1,弁護士,べんごし,lawyer
+shi,〜士,1,会計士,かいけいし,accountant
+shi,〜士,1,消防士,しょうぼうし,firefighter
+in,〜員,1,研究員,けんきゅういん,researcher
+in,〜員,1,公務員,こうむいん,public employee
+in,〜員,1,会社員,かいしゃいん,company employee
+gyou,〜業,1,観光業,かんこうぎょう,tourist trade
+gyou,〜業,1,製造業,せいぞうぎょう,manufacturing industry
+gyou,〜業,1,サービス業,サービスぎょう,service industry
+ryou,〜料,1,入場料,にゅうじょうりょう,entrance fee
+ryou,〜料,1,授業料,じゅぎょうりょう,tuition fee
+ryou,〜料,1,手数料,てすうりょう,(handling) fee
+dai,〜代,1,食事代,しょくじだい,cost of a meal (or meals)
+dai,〜代,1,タクシー代,タクシーだい,taxi fare
+dai,〜代,1,電気代,でんきだい,electricity bill
+dai,〜代,2,20代,にじゅうだい,twenties
+dai,〜代,2,30代,さんじゅうだい,thirties
+dai,〜代,2,50代,ごじゅうだい,fifties
+hi_cost,〜費,1,生活費,せいかつひ,living expenses
+hi_cost,〜費,1,交通費,こうつうひ,traveling expenses
+hi_cost,〜費,1,光熱費,こうねつひ,cost of fuel and lighting
+kin,〜金,1,入学金,にゅうがくきん,matriculation fee
+kin,〜金,1,奨学金,しょうがくきん,scholarship; student loan
+kin,〜金,1,保証金,ほしょうきん,deposit (esp. on renting a house)
+chi,〜地,1,観光地,かんこうち,tourist attraction
+chi,〜地,1,出身地,しゅっしんち,the place one comes from
+chi,〜地,1,目的地,もくてきち,destination (one is heading towards)
+jou,〜場,1,駐車場,ちゅうしゃじょう,parking lot
+jou,〜場,1,運動場,うんどうじょう,sports ground
+jou,〜場,1,競技場,きょうぎじょう,stadium
+sho_place,〜所,1,研究所,けんきゅうじょ,research institute
+sho_place,〜所,1,事務所,じむしょ,office
+sho_place,〜所,1,発電所,はつでんしょ,power plant
+gai,〜街,1,住宅街,じゅうたくがい,residential area
+gai,〜街,1,商店街,しょうてんがい,shopping district
+gai,〜街,1,温泉街,おんせんがい,hot spring district (within a town)
+ki,〜機,1,洗濯機,せんたくき,washing machine
+ki,〜機,1,掃除機,そうじき,vacuum cleaner; cleaning device
+ki,〜機,1,自動販売機,じどうはんばいき,vending machine
+ki_device,〜器,1,受話器,じゅわき,(telephone) receiver
+ki_device,〜器,1,消火器,しょうかき,fire extinguisher
+ki_device,〜器,1,充電器,じゅうでんき,(battery) charger
+gu,〜具,1,釣り具,つりぐ,fishing gear
+gu,〜具,1,筆記具,ひっきぐ,writing materials
+gu,〜具,1,洗面具,せんめんぐ,washing utensils
+kei,〜計,1,温度計,おんどけい,thermometer
+kei,〜計,1,体重計,たいじゅうけい,scale
+kei,〜計,1,血圧計,けつあつけい,sphygmomanometer (instrument used to measure blood pressure)
+fuu,〜風,1,日本風,にほんふう,Japanese style
+fuu,〜風,1,洋風,ようふう,Western style
+fuu,〜風,1,現代風,げんだいふう,modern style
+you,〜用,1,家庭用,かていよう,(for) household use
+you,〜用,1,子供用,こどもよう,for use by children
+you,〜用,1,医療用,いりょうよう,medical use
+shiki,〜式,1,日本式,にほんしき,Japanese style; Nihon-shiki romanization (of Japanese)
+shiki,〜式,1,最新式,さいしんしき,latest style
+shiki,〜式,1,組み立て式,くみたてしき,prefabricated
+shiki,〜式,2,結婚式,けっこんしき,marriage ceremony
+shiki,〜式,2,卒業式,そつぎょうしき,graduation ceremony
+shiki,〜式,2,入学式,にゅうがくしき,school entrance ceremony
+sei,〜製,1,木製,もくせい,wooden
+sei,〜製,1,プラスチック製,プラスチックせい,(made of) plastic
+sei,〜製,1,日本製,にほんせい,made in Japan
+kan,〜感,1,安心感,あんしんかん,sense of security
+kan,〜感,1,責任感,せきにんかん,sense of responsibility
+kan,〜感,1,危機感,ききかん,sense of impending crisis
+ryoku,〜力,1,表現力,ひょうげんりょく,power of expression
+ryoku,〜力,1,集中力,しゅうちゅうりょく,(powers of) concentration
+ryoku,〜力,1,想像力,そうぞうりょく,(power of) imagination
+hou,〜法,1,学習法,がくしゅうほう,way of learning
+hou,〜法,1,解決法,かいけつほう,solution
+hou,〜法,1,活用法,かつようほう,usage method
+hou,〜法,2,労働法,ろうどうほう,labor law
+hou,〜法,2,国際法,こくさいほう,international law
+hou,〜法,2,少年法,しょうねんほう,Juvenile Act
+jou_doc,〜状,1,招待状,しょうたいじょう,(written) invitation
+jou_doc,〜状,1,案内状,あんないじょう,letter of invitation
+jou_doc,〜状,1,年賀状,ねんがじょう,New Year's card
+shou,〜証,1,会員証,かいいんしょう,membership card
+shou,〜証,1,学生証,がくせいしょう,student card
+shou,〜証,1,免許証,めんきょしょう,licence
+todoke,〜届,1,離婚届,りこんとどけ,official divorce registration papers
+todoke,〜届,1,死亡届,しぼうとどけ,report of death
+todoke,〜届,1,変更届,へんこうとどけ,notification of change
+chou_book,〜帳,1,日記帳,にっきちょう,diary
+chou_book,〜帳,1,メモ帳,メモちょう,memo book
+chou_book,〜帳,1,電話帳,でんわちょう,telephone directory
+ban,〜版,1,日本語版,にほんごばん,Japanese (language) version
+ban,〜版,1,最新版,さいしんばん,latest version
+ban,〜版,1,限定版,げんていばん,limited edition
+betsu_suf,〜別,1,男女別,だんじょべつ,by gender
+betsu_suf,〜別,1,地域別,ちいきべつ,by region
+betsu_suf,〜別,1,年齢別,ねんれいべつ,by age
+sa,〜差,1,男女差,だんじょさ,gender difference
+sa,〜差,1,気温差,きおんさ,temperature difference
+sa,〜差,1,個人差,こじんさ,individual differences
+ryou_amount,〜量,1,使用量,しようりょう,amount used
+ryou_amount,〜量,1,生産量,せいさんりょう,production output
+ryou_amount,〜量,1,降水量,こうすいりょう,amount of precipitation
+ritsu,〜率,1,合格率,ごうかくりつ,ratio of successful applicants
+ritsu,〜率,1,成功率,せいこうりつ,success rate
+ritsu,〜率,1,失業率,しつぎょうりつ,unemployment rate
+do,〜度,1,満足度,まんぞくど,(degree of) satisfaction
+do,〜度,1,完成度,かんせいど,degree of perfection
+do,〜度,1,理解度,りかいど,comprehension
+teki,〜的,1,社会的,しゃかいてき,social
+teki,〜的,1,経済的,けいざいてき,economic; economical
+teki,〜的,1,具体的,ぐたいてき,concrete
+teki,〜的,2,基本的,きほんてき,fundamental
+teki,〜的,2,印象的,いんしょうてき,impressive
+teki,〜的,2,効果的,こうかてき,effective
+ka_change,〜化,1,国際化,こくさいか,internationalization
+ka_change,〜化,1,高齢化,こうれいか,aging (of a population)
+ka_change,〜化,1,温暖化,おんだんか,(global) warming
+ka_change,〜化,2,映画化,えいがか,"making (a book, etc.) into a film"
+ka_change,〜化,2,実用化,じつようか,making practical
+ka_change,〜化,2,表面化,ひょうめんか,coming to a head
+sei_nature,〜性,1,重要性,じゅうようせい,importance
+sei_nature,〜性,1,安全性,あんぜんせい,safety
+sei_nature,〜性,1,具体性,ぐたいせい,concreteness
+sei_nature,〜性,2,可能性,かのうせい,possibility; potential; possibility (modal property of a proposition containing no logical contradiction)
+sei_nature,〜性,2,実現性,じつげんせい,practicability
+sei_nature,〜性,2,将来性,しょうらいせい,future prospects
+kan_interval,〜間,1,時間,じかん,time; hour; period
+kan_interval,〜間,1,期間,きかん,period
+kan_interval,〜間,1,区間,くかん,"section (of track, etc.); interval"
+kan_interval,〜間,2,合間,あいま,interval; gap (between objects)
+kan_interval,〜間,2,隙間,すきま,gap; spare moment; unguarded moment
+kan_interval,〜間,2,仲間,ちゅうげん,samurai's attendant
+ki_period,〜期,1,学期,がっき,school term
+ki_period,〜期,1,時期,じき,time
+ki_period,〜期,1,青春期,せいしゅんき,adolescence
+kai,〜界,1,世界,せかい,the world; sphere; world-renowned
+kai,〜界,1,業界,ぎょうかい,business world
+kai,〜界,1,政界,せいかい,(world of) politics
+gai_out,〜外,1,海外,かいがい,foreign
+gai_out,〜外,1,郊外,こうがい,suburb
+gai_out,〜外,1,室外,しつがい,"outside (the room, building)"
+gai_out,〜外,2,以外,いがい,"excluding; outside (a boundary, scope, etc.)"
+gai_out,〜外,2,予想外,よそうがい,unexpected
+gai_out,〜外,2,期待外れ,きたいはずれ,disappointment
+nai,〜内,1,国内,こくない,within the country
+nai,〜内,1,社内,しゃない,within a company; within a shrine
+nai,〜内,1,校内,こうない,within a school
+muke,〜向け,1,子供向け,こどもむけ,(intended) for children
+muke,〜向け,1,海外向け,かいがいむけ,aimed at overseas
+muke,〜向け,1,初心者向け,しょしんしゃむけ,beginner-friendly
+zumi,〜済み,1,使用済み,しようずみ,"used (ticket, stamp, etc.)"
+zumi,〜済み,1,登録済み,とうろくずみ,registered
+zumi,〜済み,1,完売済み,かんばいずみ,sold out
+gachi,〜がち,1,曇りがち,くもりがち,mainly cloudy
+gachi,〜がち,1,病気がち,びょうきがち,proneness to being ill
+gachi,〜がち,1,遅れがち,おくれがち,tends to be late
+gimi,〜気味,1,風邪気味,かぜぎみ,slight cold
+gimi,〜気味,1,疲れ気味,つかれぎみ,slightly tired
+gimi,〜気味,1,太り気味,ふとりぎみ,plump
+ppoi,〜っぽい,1,子供っぽい,こどもっぽい,childish
+ppoi,〜っぽい,1,水っぽい,みずっぽい,watery; racy
+ppoi,〜っぽい,1,飽きっぽい,あきっぽい,easily bored
+mi_state,〜み,1,重み,おもみ,weight; weight (e.g. of someone's words); importance
+mi_state,〜み,1,深み,ふかみ,deep place; depth
+mi_state,〜み,1,苦み,にがみ,bitterness
+nikui,〜難い,1,信じ難い,しんじがたい,unbelievable
+nikui,〜難い,1,読み難い,よみにくい,hard to read
+nikui,〜難い,1,忘れ難い,わすれがたい,unforgettable
+zoi,〜沿い,1,川沿い,かわぞい,along the river
+zoi,〜沿い,1,通り沿い,とおりぞい,along the street
+zoi,〜沿い,1,海岸沿い,かいがんぞい,along the coast
+buri,〜ぶり,1,仕事ぶり,しごとぶり,the way one works
+buri,〜ぶり,1,話しぶり,はなしぶり,way of talking
+buri,〜ぶり,1,成長ぶり,せいちょうぶり,growth pattern
+buri,〜ぶり,2,久しぶり,ひさしぶり,a long time (since the last time); it's been a long time
+buri,〜ぶり,2,三年ぶり,さんねんぶり,first in three years
+buri,〜ぶり,2,十年ぶり,じゅうねんぶり,first in ten years
+ryuu,〜流,1,日本流,にほんりゅう,Japanese style
+ryuu,〜流,1,西洋流,せいようりゅう,Western ways
+ryuu,〜流,1,自己流,じこりゅう,one's own style

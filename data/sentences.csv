@@ -1,0 +1,169 @@
+affix_id,affix,sense,ja,en,source,source_id,compound,check
+hi_non,非〜,1,あんなことを彼女に言うなんて、非常識だ。,It is thoughtless to say such a thing to her.,original,,非常識,ok
+hi_non,非〜,1,この資料は非公開なので、見せられない。,"These documents are private, so they cannot be shown.",original,,非公開,ok
+fu,不〜,1,不景気になってきているみたいね。,We're in store for a recession.,Tatoeba,85112,不景気,ok
+fu,不〜,2,急に笑い出さないでよ。不気味だから。,Don't suddenly start laughing. It's creepy.,Tatoeba,182460,不気味,ok
+mu,無〜,2,彼の無遠慮な質問に、皆が困った。,Everyone was troubled by his blunt question.,original,,無遠慮,ok
+mu,無〜,1,これは我々の問題とは全く無関係かもしれない。,This might not have anything to do with our problem.,Tatoeba,2230836,無関係,ok
+mi,未〜,1,彼は未経験だが、仕事を覚えるのが早い。,"He has no experience, but he learns the job quickly.",original,,未経験,ok
+mi,未〜,1,２つの問題が未解決のままであった。,Two problems remained unsolved.,Tatoeba,235531,未解決,ok
+sou,総〜,1,日本の総人口は年々減っている。,Japan's total population is decreasing year by year.,original,,総人口,ok
+sou,総〜,1,この公園の総面積は約十ヘクタールだ。,The total area of this park is about ten hectares.,original,,総面積,ok
+kaku,各〜,1,各学校で防災訓練が行われた。,Disaster drills were held at each school.,original,,各学校,ok
+kaku,各〜,1,各分野の専門家が会議に参加した。,Experts from each field attended the meeting.,original,,各分野,ok
+sho,諸〜,1,諸外国の文化を学ぶことは大切だ。,Learning about various foreign cultures is important.,original,,諸外国,ok
+sho,諸〜,1,会議では諸問題について話し合った。,They discussed various problems at the meeting.,original,,諸問題,ok
+gen,現〜,1,あなたの現住所を教えてください。,Please tell me your present address.,Tatoeba,233352,現住所,ok
+gen,現〜,1,現市長は再選を目指している。,The current mayor is aiming for reelection.,original,,現市長,ok
+kyuu,旧〜,1,彼女は結婚して旧姓を変えた。,She got married and changed her maiden name.,original,,旧姓,ok
+kyuu,旧〜,1,旧市街には古い建物が多い。,There are many old buildings in the old town.,original,,旧市街,ok
+moto,元〜,1,元大統領が講演のために来日した。,The former president visited Japan for a lecture.,original,,元大統領,ok
+moto,元〜,1,元首相は現在、大学で教えている。,The former prime minister now teaches at a university.,original,,元首相,ok
+zen,前〜,2,前払いでお願いしたいのですが。,I'd like you to pay the money in advance.,Tatoeba,161739,前払い,ok
+zen,前〜,1,前社長は今も会社の相談役をしている。,The former president still serves as an advisor to the company.,original,,前社長,ok
+shin,真〜,2,彼は真剣に将来のことを考えている。,He is thinking seriously about his future.,original,,真剣,ok
+shin,真〜,1,僕らは真夜中を過ぎて目を覚ました。,We woke up after midnight.,Tatoeba,1753648,真夜中,ok
+gyaku,逆〜,1,そんなことをしたら逆効果になる。,It would be counter-productive to do such a thing.,Tatoeba,204389,逆効果,ok
+gyaku,逆〜,1,駅は逆方向に歩いた先にあった。,The station was in the opposite direction.,original,,逆方向,ok
+han,反〜,1,反社会的な行動は法律で禁止されている。,Antisocial behavior is prohibited by law.,original,,反社会的,ok
+han,反〜,2,この時計は反時計回りに回っている。,This clock is turning counterclockwise.,original,,反時計回り,ok
+betsu,別〜,1,それはまったく別問題なので、後で話し合おう。,"That is a completely separate issue, so let's discuss it later.",original,,別問題,ok
+betsu,別〜,1,ここはまるで別世界のようだ。,This place is like another world.,original,,別世界,ok
+i,異〜,1,異文化を理解することは簡単ではない。,Understanding different cultures is not easy.,original,,異文化,ok
+i,異〜,1,異分野の研究者が協力して新しい技術を開発した。,Researchers from different fields cooperated to develop new technology.,original,,異分野,ok
+kou,高〜,1,高血圧と診断されたことはありますか？,Have you ever been diagnosed with high blood pressure?,Tatoeba,11031526,高血圧,ok
+kou,高〜,1,高収入の仕事を探している。,I'm looking for a high-income job.,original,,高収入,ok
+tei,低〜,1,彼女は低血圧で、朝はいつも具合が悪い。,She has low blood pressure and always feels ill in the morning.,original,,低血圧,ok
+tei,低〜,1,低価格の商品が人気だが、安全も大事だ。,"Low-priced products are popular, but safety matters too.",original,,低価格,ok
+chou,長〜,1,私たちは長時間、この問題について議論した。,We discussed the problem at length.,Tatoeba,10229755,長時間,ok
+chou,長〜,1,長距離を歩くのには慣れていない。,I'm not accustomed to walking long distances.,Tatoeba,1191609,長距離,ok
+tan,短〜,1,短距離の移動なら自転車が便利だ。,A bicycle is convenient for short-distance travel.,original,,短距離,ok
+tan,短〜,1,短時間でできる料理を教えてください。,Please teach me a dish that can be made in a short time.,original,,短時間,ok
+ta,多〜,1,このホールは多目的に利用できる。,This hall can be used for multiple purposes.,original,,多目的,ok
+ta,多〜,1,多人数で旅行するのは大変だ。,Traveling with many people is hard.,original,,多人数,ok
+juu,重〜,1,彼は重労働に慣れている。,He is accustomed to hard work.,Tatoeba,104324,重労働,ok
+juu,重〜,1,この地域は重工業が盛んだ。,Heavy industry is thriving in this region.,original,,重工業,ok
+aku,悪〜,1,悪天候にもかかわらず、彼らは車で行く決心をした。,"In spite of the bad weather, they decided to go by car.",Tatoeba,191394,悪天候,ok
+aku,悪〜,1,寝不足は健康に悪影響を与える。,Lack of sleep has a bad effect on health.,original,,悪影響,ok
+kou_good,好〜,1,彼は大会で好成績を収めた。,He achieved good results at the tournament.,original,,好成績,ok
+kou_good,好〜,1,好条件の仕事が見つかるまで待つつもりだ。,I'll wait until I find a job with good conditions.,original,,好条件,ok
+kyuu_fast,急〜,1,その街の急成長ぶりには驚かされた。,The rapid growth of the city surprised us.,Tatoeba,11209504,急成長,ok
+kyuu_fast,急〜,2,彼は右に急カーブした。,He made a sharp turn to the right.,Tatoeba,109830,急カーブ,ok
+sai,再〜,1,フライトの再確認をしたいのですが。,I'd like to reconfirm my flight.,Tatoeba,1226215,再確認,ok
+sai,再〜,1,駅の周辺で再開発が進んでいる。,Redevelopment is progressing around the station.,original,,再開発,ok
+shu,主〜,1,このパンの主原料は小麦粉だ。,The main ingredient of this bread is wheat flour.,original,,主原料,ok
+shu,主〜,1,この飲み物の主成分は水だ。,The main component of this drink is water.,original,,主成分,ok
+fuku,副〜,2,この薬に副作用はありません。,This medicine has no side effects.,Tatoeba,237338,副作用,ok
+fuku,副〜,1,彼は来月から副社長になる。,He will become vice president next month.,original,,副社長,ok
+chou_over,超〜,1,コンサートの会場は超満員で、入れなかった。,"The concert venue was packed, and I could not get in.",original,,超満員,ok
+chou_over,超〜,1,トムって、超高級腕時計を持ってるんだよ。,Tom has a very expensive watch.,Tatoeba,11888684,超高級,ok
+bou,防〜,1,私のカメラは防水なので、雨の日も使える。,"My camera is waterproof, so I can use it on rainy days.",original,,防水,ok
+bou,防〜,1,地震に備えて防災の準備をしておこう。,Let's prepare for disasters in case of an earthquake.,original,,防災,ok
+hon,本〜,1,その会社の本社はこの町に移った。,The company's head office moved to this town.,original,,本社,ok
+hon,本〜,1,本格的な休暇は３年ぶりだ。,It's three years since I had a real vacation.,Tatoeba,81594,本格的,ok
+yoku,翌〜,1,彼はその翌年外国を旅行するのを楽しみにしていた。,He anticipated traveling abroad the next year.,Tatoeba,112303,翌年,ok
+yoku,翌〜,1,私は時計を買って、その翌日になくしてしまった。,I bought a watch and I lost it the next day.,Tatoeba,156396,翌日,ok
+sha,〜者,1,労働者たちは自分の仕事に誇りを持っている。,The workers take pride in their work.,original,,労働者,ok
+sha,〜者,1,「僕は研究者になるつもりだ」と彼は言った。,"He said, ""I plan to become a researcher.""",Tatoeba,1522706,研究者,ok
+ka,〜家,1,彼は医療の専門家に相談することにした。,He decided to consult a medical specialist.,original,,専門家,ok
+ka,〜家,1,これがあの有名な小説家が生まれた家です。,This is the house where the famous novelist was born.,Tatoeba,219015,小説家,ok
+shi,〜士,1,火は消防士が到着する前に、隣の建物へ広がってしまった。,The fire had spread to the next building before the firemen came.,Tatoeba,186734,消防士,ok
+shi,〜士,1,法律上の援助を求めてその弁護士のところへ行った。,I went to the lawyer for legal help.,Tatoeba,82652,弁護士,ok
+in,〜員,1,彼女は地方公務員として働いている。,She works as a local government employee.,original,,公務員,ok
+in,〜員,1,私は会社員として五年間働いている。,I have worked as an office employee for five years.,original,,会社員,ok
+gyou,〜業,1,この町は観光業で発展した。,This town developed through the tourism industry.,original,,観光業,ok
+gyou,〜業,1,製造業に働く人が減っている。,The number of people working in manufacturing is decreasing.,original,,製造業,ok
+ryou,〜料,1,ここは入場料を払わなきゃいけないんだ。,You must pay the admission fee here.,Tatoeba,9373371,入場料,ok
+ryou,〜料,1,修理費には部品代と手数料が含まれます。,The repair bill includes parts and labor.,Tatoeba,148223,手数料,ok
+dai,〜代,1,彼は食事代は自分が払うと言った。,He said he would pay for the dinner.,Tatoeba,103905,食事代,ok
+dai,〜代,2,彼女は20代で会社を作った。,She started a company in her twenties.,original,,20代,ok
+hi_cost,〜費,1,彼女はバイオリンを弾いて生活費を稼いでいる。,She earns her living by playing the violin.,Tatoeba,91765,生活費,ok
+hi_cost,〜費,1,毎月の交通費は五千円ぐらいだ。,"My monthly transportation cost is about 5,000 yen.",original,,交通費,ok
+kin,〜金,1,彼女は奨学金のおかげで大学に進学することができた。,She was able to go to college thanks to the scholarship.,Tatoeba,88706,奨学金,ok
+kin,〜金,1,入学金は十万円だった。,"The entrance fee was 100,000 yen.",original,,入学金,ok
+chi,〜地,1,彼の出身地は海に近い小さな町だ。,His hometown is a small town near the sea.,original,,出身地,ok
+chi,〜地,1,昼食後は全員バスに乗り、次の目的地へと向かった。,"After lunch, we all boarded the bus and headed to our next destination.",Tatoeba,11779908,目的地,ok
+jou,〜場,1,駐車場は何時まで開いていますか？,What time does the parking lot close?,Tatoeba,8895503,駐車場,ok
+jou,〜場,1,競技場にはどうやって行ったの？,How did you get to the stadium?,Tatoeba,181525,競技場,ok
+sho_place,〜所,1,あなたが昨日私の事務所で会った人はベルギーの人です。,The man you saw in my office yesterday is from Belgium.,Tatoeba,234063,事務所,ok
+sho_place,〜所,1,トムは研究所で働いています。,Tom works in a lab.,Tatoeba,11698078,研究所,ok
+gai,〜街,1,近くに商店街がありますよ。,There's a shopping area nearby.,Tatoeba,179874,商店街,ok
+gai,〜街,1,トムとメアリーは静かな住宅街に住んでいる。,Tom and Mary live in a quiet residential neighborhood.,Tatoeba,8611541,住宅街,ok
+ki,〜機,1,すみません、洗濯機の使い方を教えてもらえませんか。,"Excuse me, could you show me how to use the washing machine?",original,,洗濯機,ok
+ki,〜機,1,この自動販売機は、１００円玉しか使えないよ。,This vending machine takes only hundred-yen coins.,Tatoeba,10602831,自動販売機,ok
+ki_device,〜器,1,誰かiPhoneの充電器を持っていませんか。,Does anyone have an iPhone charger?,original,,充電器,ok
+ki_device,〜器,1,彼女は黙って受話器を置いた。,She hung up in silence.,Tatoeba,86534,受話器,ok
+gu,〜具,1,父は釣り具を車に積んだ。,My father loaded the fishing gear into the car.,original,,釣り具,ok
+gu,〜具,1,試験のときは筆記具を忘れないでください。,Don't forget your writing tools during the exam.,original,,筆記具,ok
+kei,〜計,1,昨夜、温度計はマイナス１０度を示した。,The thermometer registered minus ten last night.,Tatoeba,169712,温度計,ok
+kei,〜計,1,体重計で体重を量ったんだ。,I weighed myself on the bathroom scales.,Tatoeba,8990085,体重計,ok
+fuu,〜風,1,日本風の庭を作りたいと思っている。,I want to make a Japanese-style garden.,original,,日本風,ok
+fuu,〜風,1,現代風の家具の方が好きだな。,I prefer modern furniture.,Tatoeba,10506040,現代風,ok
+you,〜用,1,子供用の椅子を買って、部屋に置いた。,I bought a chair for children and put it in the room.,original,,子供用,ok
+you,〜用,1,トムは医療用マスクをつけている。,Tom is wearing a surgical mask.,Tatoeba,8671022,医療用,ok
+shiki,〜式,1,この部屋は日本式の建物だ。,This room is a Japanese-style building.,original,,日本式,ok
+shiki,〜式,2,君の卒業式での姿を見るのが楽しみだ。,I'm looking forward to seeing you in your cap and gown.,Tatoeba,1894702,卒業式,ok
+sei,〜製,1,彼は古い木製のオールを壁にかけて飾っている。,"He hung an old, wooden oar on his wall as a decoration.",Tatoeba,1202482,木製,ok
+sei,〜製,1,これらの箱はプラスチック製です。,These boxes are made of plastic.,Tatoeba,1065046,プラスチック製,ok
+kan,〜感,1,彼は責任感が強く、仕事を最後まで続ける。,He has a strong sense of responsibility and finishes his work.,original,,責任感,ok
+kan,〜感,1,ここはすごく安心感を覚えるわ。,We feel very safe here.,Tatoeba,12662796,安心感,ok
+ryoku,〜力,1,彼は想像力が豊かで、いつも新しい話を考える。,He is imaginative and always thinks up new stories.,original,,想像力,ok
+ryoku,〜力,1,それは高レベルの集中力を必要とする種類の仕事だ。,It's the sort of work that calls for a high level of concentration.,Tatoeba,205205,集中力,ok
+hou,〜法,1,これが彼の英語学習法です。,This is the way he learned English.,Tatoeba,1173605,学習法,ok
+hou,〜法,2,労働法について勉強した。,I studied labor law.,original,,労働法,ok
+jou_doc,〜状,1,私は招待状の封筒に住所を書いた。,I wrote the address on the invitation envelope.,original,,招待状,ok
+jou_doc,〜状,1,友達に年賀状を出すのを忘れてた。,I forgot to send New Year's cards to my friends.,Tatoeba,152486,年賀状,ok
+shou,〜証,1,試験の日は学生証を忘れないでください。,Please do not forget your student ID on the exam day.,original,,学生証,ok
+shou,〜証,1,トムは、警察官に運転免許証を見せました。,Tom showed his driver's license to the policeman.,Tatoeba,11603883,免許証,ok
+todoke,〜届,1,二人は離婚届を市役所に提出した。,The two submitted their divorce papers to the city hall.,original,,離婚届,ok
+todoke,〜届,1,住所が変わったので変更届を出した。,"Since my address changed, I submitted a change notification.",original,,変更届,ok
+chou_book,〜帳,1,彼は電話帳で中古車販売店を探した。,He looked for a used car dealer in the phone book.,original,,電話帳,ok
+chou_book,〜帳,1,毎晩、日記帳にその日のことを書いている。,Every night I write about the day in my diary.,original,,日記帳,ok
+ban,〜版,1,この辞書は最新版なので、言葉の意味が新しい。,"This dictionary is the latest edition, so its definitions are current.",original,,最新版,ok
+ban,〜版,1,この小説の日本語版は来月発売される。,The Japanese edition of this novel goes on sale next month.,original,,日本語版,ok
+betsu_suf,〜別,1,この大会は男女別に競技が行われる。,"In this tournament, events are held separately for men and women.",original,,男女別,ok
+betsu_suf,〜別,1,参加者を年齢別に分けてグループを作った。,We divided the participants into groups by age.,original,,年齢別,ok
+sa,〜差,1,朝と昼の気温差が大きい。,The temperature difference between morning and noon is large.,original,,気温差,ok
+sa,〜差,1,上達の速さには個人差がある。,There are individual differences in the speed of improvement.,original,,個人差,ok
+ryou_amount,〜量,1,電気の使用量を減らすようにしよう。,Let's try to reduce electricity usage.,original,,使用量,ok
+ryou_amount,〜量,1,今年の米の生産量は去年より多い。,This year's rice production is higher than last year's.,original,,生産量,ok
+ritsu,〜率,1,高い失業率の責任は誰にあるのか。,Who is responsible for high unemployment?,Tatoeba,173253,失業率,ok
+ritsu,〜率,1,この試験の合格率は約三十パーセントだ。,The pass rate for this exam is about 30 percent.,original,,合格率,ok
+do,〜度,1,お客様の満足度を上げるために努力している。,We are working to raise customer satisfaction.,original,,満足度,ok
+do,〜度,1,授業の後で理解度を確認するテストをする。,"After class, we take a test to check understanding.",original,,理解度,ok
+teki,〜的,1,一つにはそれをする経済的な余裕がなかった。,"For one thing, I couldn't afford to do that.",Tatoeba,190705,経済的,ok
+teki,〜的,2,基本的に、あなたのプランは気に入ってるわ。,I basically like your plan.,Tatoeba,9037437,基本的,ok
+ka_change,〜化,1,今週のトピックは「地球の温暖化」です。,Our topic for this week is global warming.,Tatoeba,9673056,温暖化,ok
+ka_change,〜化,2,その小説は来年、映画化される。,That novel will be made into a movie next year.,original,,映画化,ok
+sei_nature,〜性,1,この問題の重要性を皆に説明する必要がある。,We need to explain the importance of this issue to everyone.,original,,重要性,ok
+sei_nature,〜性,2,この仕事には将来性がない。,There is no future in this job.,Tatoeba,221834,将来性,ok
+kan_interval,〜間,1,お時間を割いていただき、ありがとうございました。,Thank you for your time.,Tatoeba,12523313,時間,ok
+kan_interval,〜間,2,付き合う仲間を見れば、その人がわかるものだ。,A man is known by the company he keeps.,Tatoeba,85024,仲間,ok
+ki_period,〜期,1,新学期が始まってから、とても忙しい。,I have been very busy since the new term started.,original,,学期,ok
+ki_period,〜期,1,この時期にスイカはなかなか手に入らないんだぞ。,It's not easy to come by watermelons at this time of year.,Tatoeba,12049952,時期,ok
+kai,〜界,1,彼は政界に敵が多く、一人で行動している。,He has many enemies in politics and is isolated.,original,,政界,ok
+kai,〜界,1,現代の世界において、英語は非常に重要な言語です。,English is a very important language in today's world.,Tatoeba,10329989,世界,ok
+gai_out,〜外,1,今年の夏は海外で過ごしたいと思っている。,I want to spend this summer abroad.,original,,海外,ok
+gai_out,〜外,2,事故の場合以外は、このボタンを押さないでください。,Do not press this button except in the case of an accident.,original,,以外,ok
+nai,〜内,1,国内の旅行なら、電車が便利だ。,"For domestic travel, trains are convenient.",original,,国内,ok
+nai,〜内,1,社内で新しいシステムを導入した。,We introduced a new system within the company.,original,,社内,ok
+muke,〜向け,1,この映画は大人向けであり、子供向けではない。,"This movie is for adults, not for children.",Tatoeba,222911,子供向け,ok
+muke,〜向け,1,初心者向けのコースはありますか。,Do you have courses for beginners?,Tatoeba,147506,初心者向け,ok
+zumi,〜済み,1,この番号はすでに登録済みなので、変更できない。,"This number is already registered, so it cannot be changed.",original,,登録済み,ok
+zumi,〜済み,1,使用済みの電池はここに捨ててください。,Please throw used batteries here.,original,,使用済み,ok
+gachi,〜がち,1,今日は曇りがちの天気だが、雨は降らないだろう。,"Today is mostly cloudy, but it probably will not rain.",original,,曇りがち,ok
+gachi,〜がち,1,子供の頃は病気がちだったんだ。,I was sick a lot when I was a kid.,Tatoeba,11462757,病気がち,ok
+gimi,〜気味,1,風邪気味だったので、早く寝たよ。,"Having a slight cold, I went to bed early.",Tatoeba,161205,風邪気味,ok
+gimi,〜気味,1,トムは子供の頃、少し太り気味でした。,Tom was a little overweight when he was a kid.,Tatoeba,9540533,太り気味,ok
+ppoi,〜っぽい,1,彼は飽きっぽい性格で、何をしても続かない。,"He is quick to lose interest, so nothing lasts long with him.",original,,飽きっぽい,ok
+ppoi,〜っぽい,1,フランス語で話すと、子供っぽいって言われるんだよな。,"When I speak French, people say I sound like a kid.",Tatoeba,11147316,子供っぽい,ok
+mi_state,〜み,1,雪の重みで小屋の屋根が壊れた。,The roof of the hut broke under the weight of the snow.,original,,重み,ok
+mi_state,〜み,1,このスープは深みのある味だ。,This soup has a deep flavor.,original,,深み,ok
+nikui,〜難い,1,彼の話は信じ難いが、本当のことだった。,"His story was hard to believe, but it was true.",original,,信じ難い,ok
+nikui,〜難い,1,あの日のことは忘れ難い思い出だ。,That day is an unforgettable memory.,original,,忘れ難い,ok
+zoi,〜沿い,1,朝、川沿いを歩くのが大好きなんです。,I love to walk along the river in the mornings.,Tatoeba,11683459,川沿い,ok
+zoi,〜沿い,1,通り沿いに新しい店ができた。,A new shop opened along the street.,original,,通り沿い,ok
+buri,〜ぶり,1,話しぶりから彼はアメリカ人ではないことがわかる。,I know from his speech that he is not an American.,Tatoeba,77187,話しぶり,ok
+buri,〜ぶり,2,久しぶりにみんなに会えるのを楽しみにしています。,I'm looking forward to meeting you all after such a long time.,Tatoeba,2518902,久しぶり,ok
+ryuu,〜流,1,私はギターを自己流で覚えて、今は毎日弾いている。,"I taught myself guitar, and now I play every day.",original,,自己流,ok
+ryuu,〜流,1,この方法は日本流のやり方だ。,This method is the Japanese way.,original,,日本流,ok
