@@ -190,17 +190,6 @@ Keep these stable:
 
 Changing the deck name makes AnkiWeb treat the upload as a new shared deck. Changing the note type fields or templates can prevent clean updates.
 
-### Migrating from the old deck name
-
-Earlier builds used `Japanese::JLPT N2::Affixes`. If you already imported one, rename the existing deck before importing this package:
-
-1. In Anki, right-click `Japanese::JLPT N2::Affixes` and choose **Rename**.
-2. Rename it to `Japanese_JLPT_N2_Affixes`. Anki renames the `Prefixes` and `Suffixes` subdecks too.
-3. Delete the now-empty `Japanese` and `Japanese::JLPT N2` parent decks if you want.
-4. Import `N2_affixes.apkg`. Notes update by GUID, and your cards stay in the renamed decks with their scheduling and review history.
-
-If you import before renaming, existing cards stay in the old decks and empty new decks appear. You can then move the cards to the new decks with **Change Deck**, which also keeps their scheduling.
-
 ## Sources and licenses
 
 - **Tatoeba**: 69 example sentences, used verbatim. License: CC BY 2.0 FR. Each card links to the Japanese sentence by its Tatoeba ID. Attribution: Tatoeba contributors, https://tatoeba.org. The corpus file used for selection is the Japanese-English export from manythings.org/anki, which is derived from Tatoeba.
