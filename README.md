@@ -148,7 +148,7 @@ The intermediate files `data/sentences_draft.csv` and `data/tatoeba_candidates.j
 
 Because the deck includes JMdict and OpenJLPT-derived data, redistribute the compiled deck data under CC BY-SA 4.0 with the attributions above. Tatoeba sentences remain under CC BY 2.0 FR. The original sentences and editorial notes are part of this project.
 
-Repository license files: `LICENSE` (dual-license summary), `LICENSE-MIT` (scripts), `LICENSE-DATA` (data, CC BY-SA 4.0), and `NOTICE.md` (third-party attribution).
+Repository license files: `LICENSE` (data, CC BY-SA 4.0), `LICENSE-MIT` (scripts), `LICENSING.md` (dual-license summary), and `NOTICE.md` (third-party attribution).
 
 The deck contains no audio, images, or pitch accent data.
 
