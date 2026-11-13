@@ -4,6 +4,8 @@ An Anki deck for Japanese word-formation affixes at JLPT N2 level. It covers 84 
 
 The deck is designed for recognition and recall in context: each affix has one recognition card and two fill-in-the-blank cards.
 
+**AnkiWeb:** https://ankiweb.net/shared/info/1065519225
+
 ## Deck contents
 
 | Item | Count |
