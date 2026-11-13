@@ -88,6 +88,9 @@ The level check has a small documented allowlist in `scripts/jlpt_check.py` for 
 | Path | Purpose |
 | --- | --- |
 | `N2_affixes.apkg` | The generated Anki package. |
+| `VERSION` | Current deck version. |
+| `CHANGELOG.md` | Release history. |
+| `Makefile` | `make deck`, `make qa`, and `make release`. |
 | `data/affixes_source.py` | Curated affix inventory with senses, compounds, notes, and tags. |
 | `data/compounds.csv` | 300 compounds with readings and English glosses. |
 | `data/sentences.csv` | Final 168 sentences with source IDs and level-check status. |
@@ -102,11 +105,12 @@ The level check has a small documented allowlist in `scripts/jlpt_check.py` for 
 | `scripts/jmdict_lookup.py` | JMdict lookup helper. |
 | `scripts/merge_sentences.py` | Merges Tatoeba, originals, and patches; validates sentences. |
 | `scripts/qa_deck.py` | Structural QA for the generated package. |
+| `scripts/release.py` | Bumps the version, rebuilds the deck, and runs QA. |
 | `scripts/select_sentences.py` | Selects Tatoeba candidates for each affix. |
 | `review/affixes_review.csv` | Human-readable review table. |
 | `review/affixes_review.html` | Collapsible review sheet. |
 | `review/qa_report.txt` | Latest structural QA output. |
-| `review/deck_manifest.json` | Note and card counts. |
+| `review/deck_manifest.json` | Version, note, and card counts. |
 
 ## Rebuilding
 
@@ -149,6 +153,42 @@ The intermediate files `data/sentences_draft.csv` and `data/tatoeba_candidates.j
 To update the shared deck later, share the same deck name and location again. Download counts and ratings are preserved, but existing users do not receive updates automatically. They need to download and re-import the deck.
 
 AnkiWeb's default Shared Deck License is personal use only. The deck description explicitly grants CC BY-SA 4.0 rights, which is necessary because the compound glosses come from JMdict under CC BY-SA 4.0. The scripts remain MIT.
+
+## Updating the deck
+
+The deck uses stable note GUIDs derived from affix IDs, stable deck IDs, and a stable note type. Re-importing a new build updates existing notes instead of creating duplicates, as long as the deck name and note type structure stay the same.
+
+Your learning history is preserved. Anki matches notes by GUID and keeps the existing cards, so due dates, intervals, ease, reps, lapses, and review log entries stay attached. The import updates note content only; it does not reset card scheduling.
+
+1. Edit the data.
+2. Bump the version, rebuild, and run QA:
+
+   ```sh
+   .venv/bin/python scripts/release.py 1.1.0 --note "Added 3 new suffixes."
+   ```
+
+   Or:
+
+   ```sh
+   make release VERSION=1.1.0 NOTE="Added 3 new suffixes."
+   ```
+
+   This writes `VERSION`, prepends a `CHANGELOG.md` entry, rebuilds `N2_affixes.apkg`, and runs `scripts/qa_deck.py`.
+3. Import the new package into Anki over the existing deck. Do not delete the deck first. Matching GUIDs update existing notes and keep your scheduling and review history.
+4. Sync to AnkiWeb.
+5. On AnkiWeb, choose **Share** again next to the same deck name. The shared deck updates in place; download counts and ratings are preserved.
+6. Commit and push the repository.
+
+Users do not receive updates automatically. They must download the deck again and re-import it. Anki updates matching notes and adds new ones. Removed notes are not deleted automatically, so avoid deleting or renaming affix IDs unless you intend to leave an old note behind.
+
+Keep these stable:
+
+- Deck name: `Japanese::JLPT N2::Affixes`.
+- Note type ID `1749202600` and its seven fields.
+- The three card templates.
+- Affix IDs in `data/affixes_source.py`.
+
+Changing the deck name makes AnkiWeb treat the upload as a new shared deck. Changing the note type fields or templates can prevent clean updates.
 
 ## Sources and licenses
 

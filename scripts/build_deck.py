@@ -23,7 +23,12 @@ PARENT_DECK_ID = 1749202601
 PREFIX_DECK_ID = 1749202602
 SUFFIX_DECK_ID = 1749202603
 
-DECK_DESCRIPTION = """N2 affixes with senses, compounds, and N2-level example sentences.
+DECK_VERSION = (ROOT / "VERSION").read_text(encoding="utf-8").strip()
+
+DECK_DESCRIPTION = f"""N2 affixes with senses, compounds, and N2-level example sentences.
+
+Version: {DECK_VERSION}
+Changelog: https://github.com/ClemPera/n2-affixes/blob/main/CHANGELOG.md
 
 84 affixes (32 prefixes, 52 suffixes), 100 senses, 300 compounds, 168 sentences. One recognition card and two cloze cards per affix.
 
@@ -331,7 +336,14 @@ def build() -> None:
     )
 
     review_rows = []
-    manifest = {"affixes": 0, "prefixes": 0, "suffixes": 0, "notes": 0, "cards": 0}
+    manifest = {
+        "version": DECK_VERSION,
+        "affixes": 0,
+        "prefixes": 0,
+        "suffixes": 0,
+        "notes": 0,
+        "cards": 0,
+    }
 
     for affix in AFFIXES:
         affix_id = affix["id"]
