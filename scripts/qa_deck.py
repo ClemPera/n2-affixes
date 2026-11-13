@@ -54,9 +54,9 @@ def main() -> None:
 
     deck_names = {deck["name"] for deck in decks.values()}
     for expected in (
-        "Japanese::JLPT N2::Affixes",
-        "Japanese::JLPT N2::Affixes::Prefixes",
-        "Japanese::JLPT N2::Affixes::Suffixes",
+        "Japanese_JLPT_N2_Affixes",
+        "Japanese_JLPT_N2_Affixes::Prefixes",
+        "Japanese_JLPT_N2_Affixes::Suffixes",
     ):
         if expected not in deck_names:
             fail(f"missing deck {expected}")

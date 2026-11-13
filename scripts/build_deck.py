@@ -321,17 +321,17 @@ def build() -> None:
 
     parent = genanki.Deck(
         PARENT_DECK_ID,
-        "Japanese::JLPT N2::Affixes",
+        "Japanese_JLPT_N2_Affixes",
         description=DECK_DESCRIPTION,
     )
     prefix_deck = genanki.Deck(
         PREFIX_DECK_ID,
-        "Japanese::JLPT N2::Affixes::Prefixes",
+        "Japanese_JLPT_N2_Affixes::Prefixes",
         description="N2 prefixes.",
     )
     suffix_deck = genanki.Deck(
         SUFFIX_DECK_ID,
-        "Japanese::JLPT N2::Affixes::Suffixes",
+        "Japanese_JLPT_N2_Affixes::Suffixes",
         description="N2 suffixes.",
     )
 

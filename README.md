@@ -21,9 +21,9 @@ The deck is designed for recognition and recall in context: each affix has one r
 
 Deck structure:
 
-- `Japanese::JLPT N2::Affixes`
-- `Japanese::JLPT N2::Affixes::Prefixes`
-- `Japanese::JLPT N2::Affixes::Suffixes`
+- `Japanese_JLPT_N2_Affixes`
+- `Japanese_JLPT_N2_Affixes::Prefixes`
+- `Japanese_JLPT_N2_Affixes::Suffixes`
 
 Each note has three cards:
 
@@ -146,7 +146,7 @@ The intermediate files `data/sentences_draft.csv` and `data/tatoeba_candidates.j
 
 1. Import `N2_affixes.apkg` into the Anki desktop app.
 2. Sync the collection to AnkiWeb.
-3. On AnkiWeb, open the deck list and click **Share** next to `Japanese::JLPT N2::Affixes`.
+3. On AnkiWeb, open the deck list and click **Share** next to `Japanese_JLPT_N2_Affixes`.
 4. Use the description stored in the package. It is generated from `DECK_DESCRIPTION` in `scripts/build_deck.py` and includes the CC BY-SA 4.0 grant plus the Tatoeba, JMdict, and OpenJLPT attributions.
 5. Submit the shared deck. AnkiWeb may hold a newly shared or updated deck for a copyright check before it appears publicly.
 
@@ -183,12 +183,23 @@ Users do not receive updates automatically. They must download the deck again an
 
 Keep these stable:
 
-- Deck name: `Japanese::JLPT N2::Affixes`.
+- Deck name: `Japanese_JLPT_N2_Affixes`.
 - Note type ID `1749202600` and its seven fields.
 - The three card templates.
 - Affix IDs in `data/affixes_source.py`.
 
 Changing the deck name makes AnkiWeb treat the upload as a new shared deck. Changing the note type fields or templates can prevent clean updates.
+
+### Migrating from the old deck name
+
+Earlier builds used `Japanese::JLPT N2::Affixes`. If you already imported one, rename the existing deck before importing this package:
+
+1. In Anki, right-click `Japanese::JLPT N2::Affixes` and choose **Rename**.
+2. Rename it to `Japanese_JLPT_N2_Affixes`. Anki renames the `Prefixes` and `Suffixes` subdecks too.
+3. Delete the now-empty `Japanese` and `Japanese::JLPT N2` parent decks if you want.
+4. Import `N2_affixes.apkg`. Notes update by GUID, and your cards stay in the renamed decks with their scheduling and review history.
+
+If you import before renaming, existing cards stay in the old decks and empty new decks appear. You can then move the cards to the new decks with **Change Deck**, which also keeps their scheduling.
 
 ## Sources and licenses
 
